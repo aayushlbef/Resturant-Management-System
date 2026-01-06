@@ -1,0 +1,1 @@
+{'Full Name': 'Aayush Kumar Gupta', 'Email': 'aayush@gmail.com', 'age': '19', 'Phone Number': '9823201960', 'username': 'Aayush', 'password': 'admin'}

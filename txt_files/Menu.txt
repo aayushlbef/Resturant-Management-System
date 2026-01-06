@@ -1,0 +1,7 @@
+{'Category': 'Drinks', 'Item': 'Apple', 'Price': '200'}
+{'Category': 'Main Course', 'Item': 'Daal Bhat papaar', 'Price': '100'}
+{'Category': 'Main Course', 'Item': 'Daal Bhat', 'Price': '60'}
+{'Category': 'Main Course', 'Item': 'pizza', 'Price': '150'}
+{'Category': 'Drinks', 'Item': 'Mango', 'Price': '200'}
+{'Category': '423', 'Item': 'drink', 'Price': 'coca'}
+{'Category': 'Drinks', 'Item': 'momo', 'Price': '100'}

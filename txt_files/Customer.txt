@@ -1,0 +1,2 @@
+{'Full Name': 'hemant bahadur bam', 'Email': 'hemantbam00@gmail.com', 'age': '100', 'Phone Number': '9848518437', 'username': 'bam', 'password': 'customer'}
+{'Full Name': 'Aayush Gupta', 'Email': 'aayush@gmail.com', 'age': '99', 'Phone Number': '9823201960', 'username': 'Aayush', 'password': 'manager'}

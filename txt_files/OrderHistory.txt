@@ -1,0 +1,4 @@
+{'username': 'Aayush', 'Item': 'Mango', 'Price': 200.0, 'Quantity': 8, 'Total': 1600.0, 'status': 'Paid', 'chef': 'Aayush', 'date': '2025-07-26'}
+{'username': 'Aayush', 'Item': 'Mango', 'Price': 200.0, 'Quantity': 3, 'Total': 600.0, 'status': 'Paid', 'chef': 'Aayush', 'date': '2025-07-26'}
+{'username': 'Aayush', 'Item': 'Daal Bhat papaar', 'Price': 100.0, 'Quantity': 3, 'Total': 300.0, 'status': 'Paid', 'chef': 'Aayush', 'date': '2025-07-26'}
+{'username': 'Bam', 'Item': 'Apple', 'Price': 200.0, 'Quantity': 2, 'Total': 400.0, 'status': 'Paid', 'chef': 'Aayush', 'date': '2025-07-28'}

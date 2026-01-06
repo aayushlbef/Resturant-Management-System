@@ -1,0 +1,3 @@
+{'name': 'Tomato', 'quantity': '7'}
+{'name': 'Potato', 'quantity': '9'}
+{'name': 'Carrot', 'quantity': '9'}
